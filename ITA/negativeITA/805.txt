@@ -1,0 +1,1 @@
+Se non si muove il mouse per una ventina di secondi va in stand-by,e quindi quando si prova a muoverlo il puntatore non risponde subito ma dopo un secondo. Mentre si gioca questo funzionamento è fastidioso

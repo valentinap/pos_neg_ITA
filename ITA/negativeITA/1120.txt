@@ -1,0 +1,1 @@
+Provato su Tablet ASUS con supporto OTG (e che funziona con un altro cavo x samsung) Il cavo fornisce alimentazione alla chiavetta (si accende il led della chiavetta) ma il tablet non la riconosce, come se non fosse attaccata. Non è un cavo OTG

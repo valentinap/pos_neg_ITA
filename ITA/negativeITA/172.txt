@@ -1,0 +1,1 @@
+Uso Linux Mint e windows 7. Appena messa in funzione si scollegava continuamente o non si collegava. Poi ho scoperto una serie di comandi per modificare i kernel e renderla stabile. Risolto, ma temo di non sfruttarne tuttora la sua massima velocitˆ a causa, appunto, del non facile setup. Il funzionamento con windows non ho neanche tentato di settarlo.

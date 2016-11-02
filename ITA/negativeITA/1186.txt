@@ -1,0 +1,1 @@
+Pensavo che funzionasse con tutti i dispositivi con sistema operativo Android. Non è così. Il mio telefonino è un Samsung GT-I9070 e non funhziona. La presenza di una chiavetta o altro dispositivo USB collegato non viene rilevata. Anche l'app StickMount non rileva alcun dispositivo.

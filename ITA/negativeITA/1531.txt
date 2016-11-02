@@ -1,0 +1,1 @@
+La tastiera non ha altri problemi se non questo: I led si accendono solo attraverso lo SCREEN LOCK... quindi in excel è impossibile lavorare dato che quel comando blocca le caselle. Si potrebbe ovviare al problema tenendo i led spenti....AH, ma non ho preso una tastiera con led?? Inoltre i tasti senza led non si leggono per nulla. Attenzione a chi usa Excel

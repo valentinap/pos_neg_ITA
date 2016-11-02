@@ -1,0 +1,1 @@
+Caricato un solo dispositivo fino al 70% ed è esaurita la carica ... prima dell'utilizzo caricato interamente fino a led blu fissi

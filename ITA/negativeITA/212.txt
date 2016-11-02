@@ -1,0 +1,1 @@
+You need to compile kernel driver manually from sources in raspbian. I find also quite complicated to find official vendor driver repository. There are other similar devices better supported by raspbian.

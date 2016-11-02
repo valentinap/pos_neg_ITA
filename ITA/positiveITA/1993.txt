@@ -1,0 +1,1 @@
+"Il router funziona perfettamente, l'unica pecca è il mini cd di installazione; potevano metterne uno normale e devono implementare l'installazione su Windows 7."

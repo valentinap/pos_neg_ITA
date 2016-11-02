@@ -1,0 +1,1 @@
+Non so se è un difetto particolare o una costante di quel modello, ma la barra spaziatrice non è bilanciata e se non si preme esattamente nel centro della barra non funziona.

@@ -1,0 +1,1 @@
+L'harddisk non viene riconosciuto correttamente da tutti PC anch'esse hanno la porta usb 3.0. Sul mio portatile no problem. Su altri devo inserire e togliere il cavo più volte fino a quando non viene riconosciuto ma poi funziona a una velocità non 3.0.

@@ -1,0 +1,1 @@
+Questo router compare nell'elenco dei compatibili con adsl fastweb. Non escludo al 100% che lo sia effettivamente, il problema è che è talmente complicato da configurare che finite per ordinare quello di fastweb.

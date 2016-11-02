@@ -1,0 +1,1 @@
+State attenti, questo prodotto non funziona con Raspberry Pi Model B. Dopo aver letto le recensioni credevo funzionasse out-of-the-box e invece mi è capitata la V2 che non è compatibile. Miraccomando!!

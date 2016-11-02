@@ -1,0 +1,1 @@
+Di due ordinati che sono attivati entrambi sono risultati non funzionanti: non si caricavano correttamente e non riuscivano a caricare nessun tipo di apparato collegato (i cavi utilizzati funzionano correttamente con gli altri trasformatori).

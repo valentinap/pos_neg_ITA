@@ -1,0 +1,1 @@
+Viene dichiarato 10000 mAh ma non riedce a caricare una batteria da 2000 mA oltre 2, 5 volte. Pensavo gosse dovuto al fatto che era alle prime volte fi uyilizzo, ma anche dopo decine di ricare eseguite con caricatore da 2000 mAh, non ha scquistato la capacitˆ dichiarata.

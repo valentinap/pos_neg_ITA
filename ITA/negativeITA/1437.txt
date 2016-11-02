@@ -1,0 +1,1 @@
+Dopo pochi utilizzi non si ricarica più: quando lo collego all'alimentatore si accende il led per una frazione di secondo e poi nulla più. Soldi buttati.

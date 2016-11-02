@@ -1,0 +1,1 @@
+Trattato sempre con i guanti, ha improvvisamente smesso di funzionare, perdendo tutto il materiale contenuto. Inserendo il cavetto, il led azzurro si accende, a volte fisso a volte lampeggia, ma l'unità non viene rilevata dal PC. Provato su diversi PC e sui sistemi Windows-XP, Windows-7, Linux. Non c'è verso di recuperare i dati.

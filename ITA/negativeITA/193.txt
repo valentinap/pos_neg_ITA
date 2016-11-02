@@ -1,0 +1,1 @@
+Allo speed test si rivela molto più lento di uno smartphone (in download 1,5 Mbps contro 4,5). Tolto dalla porta USB dove lo avevo installato, per reinstallarlo su un'altra porta USB è stata dura. Non viene riconosciuto. Viene caricato un altro driver che va rimosso prima di reinstallare tutto da capo. Alla fine ho optato per una prolunga della rete LAN. Soldi buttati.

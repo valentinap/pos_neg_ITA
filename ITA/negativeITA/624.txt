@@ -1,0 +1,1 @@
+Il cavetto non carica mai al primo inserimento, bisogna girarlo ogni volta due o tre volte prima che inizi la carica

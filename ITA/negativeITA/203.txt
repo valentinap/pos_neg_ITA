@@ -1,0 +1,1 @@
+"Il prodotto è leggermente cambiato e non c'è più compatibilità nativa nè con raspberry-pi wheezy nè con raspbmc. Di fatto, a differenza di quanto indicato nelle recensioni, non mi trovo in condizione ""plug&play"" e sto impazzendo a trovare il modo di farlo funzionare."

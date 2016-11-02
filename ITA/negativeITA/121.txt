@@ -1,0 +1,1 @@
+Il carica batteria indica sempre rosso e non si sa quando le batterie sono cariche.Sul quadricottero funziona solo 1 di 4. Ho un caricabatteria di un altro giocattolo con la stessa batteria che indica : rosso - in carica e verde carica.Quello mi da le batterie diffettose sempre come cariche, mentre una funziona normale. Ché devo fare?

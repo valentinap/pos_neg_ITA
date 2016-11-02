@@ -1,0 +1,1 @@
+Anche se il design e' buono purtroppo non funziona. Mentre si carica non si accendono piu di 2 led dei quattro totali. Se carico iphone riesce a raggiungere 30% e poi come se fosse morta. Mi diaspiace, spero di essere uno dei pochi con questo diffetto.

@@ -1,0 +1,1 @@
+io ho acquistato questo prodotto un mese fa, e quando vado ad installarlo ho un problema con uno dei dvd, mi da questo errore 5001: 0x80070002, e si blocca l'installazione, qualcuno sa dirmi cosa posso fare?

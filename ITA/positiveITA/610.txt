@@ -1,0 +1,1 @@
+Perfette le pile e il caricatore, finalmente posso caricare più pile alla volta e non solo una. Funziona tutto perfettamente, consegna ok!

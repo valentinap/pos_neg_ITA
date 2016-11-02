@@ -1,0 +1,1 @@
+Ordinato la prima volta e restituito per un led difettoso della tastiera, ora si ripresenta lo stesso problema con la tastiera nuova.
